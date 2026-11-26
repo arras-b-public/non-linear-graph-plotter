@@ -11,7 +11,7 @@ It draws the phase portrait of the system, finds its fixed points, classifies th
 
 This project is a work in progress.
 
-![Damped pendulum phase portrait](docs/damped_pendulum.png)
+![Damped pendulum phase portrait](pictures/damped_pendulum.png)
 
 The screenshot shows the damped pendulum preset (`x' = y`, `y' = -sin(x) - b*y`) with `b = 0.31`. The filled dots are stable spirals, the open dots are saddles, and the side panel lists the trace, determinant, and eigenvalues at each fixed point.
 
